@@ -1,5 +1,5 @@
 import React from 'react';
-import { getImageUrl } from '../../../utils';
+import { getImageUrl } from '../../utils';
 import Styles from './Hero.module.css';
 
 export const Hero = () => {

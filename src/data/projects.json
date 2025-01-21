@@ -1,0 +1,66 @@
+[
+    {
+      "title": "Multi-Assist",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an API-centric application leveraging AI/ML models within a microservice architecture to deliver personalized health advice and multilingual translations. Balanced this self-initiated project alongside team commitments, showcasing adaptability and efficiency.",
+      "skills": ["HTML", "CSS", "Node.js", "Express.js", "Python"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Timetable",
+      "imageSrc": "projects/project.png",
+      "description": "Designed and developed a faculty-student timetable app utilizing 15 AWS services, including API Gateway, Step Functions, and AWS RDS, to enable real-time scheduling and data synchronization. Automated CI/CD pipelines using AWS CodePipeline and CodeDeploy.",
+      "skills": ["AWS", "API Gateway", "Step Functions", "AWS RDS", "CodePipeline", "CodeDeploy"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Linli-Match",
+      "imageSrc": "projects/project.png",
+      "description": "Developed and optimized a neighborhood engagement engine using Python, React, CSS, and JavaScript for Webmainland Media Ltd. Improved system stability and refined the matching algorithm for accuracy and real-time efficiency.",
+      "skills": ["Python", "React", "CSS", "JavaScript", "Google Cloud"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "AWDEA",
+      "imageSrc": "projects/project.png",
+      "description": "Applied UX best practices to design and develop intuitive interfaces in AWDEA, enhancing accessibility and user satisfaction. Integrated AWS for hosting, MongoDB for data storage, and Stripe for payment processing.",
+      "skills": ["React", "CSS", "Flowbite", "AWS", "MongoDB", "Stripe"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Escheduler",
+      "imageSrc": "projects/project.png",
+      "description": "Built a scalable platform using AWS Elastic Beanstalk with features like appointment booking, doctor recommendations, and patient history viewing. Implemented secure authentication and efficient email interactions.",
+      "skills": ["AWS Elastic Beanstalk", "SES", "Cognito", "DynamoDB"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "AISleep",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a data-driven web application using Python and Graphic API for sleep trend analysis and insights. Collaborated in a 4-member team, managing tasks efficiently with Trello.",
+      "skills": ["HTML", "CSS", "Bootstrap", "JavaScript", "Node.js", "MongoDB", "Python"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Ready Bee",
+      "imageSrc": "projects/project.png",
+      "description": "An emergency preparedness web app that helps you build a custom first aid kit and securely store important documents. Balanced project work with five concurrent courses, solving challenges through collaboration and innovation.",
+      "skills": ["HTML", "CSS", "Bootstrap", "Firebase", "Node.js", "jQuery"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Chess Game",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a classic chess game using JavaScript, showcasing expertise in game logic implementation and dynamic UI creation.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Snake Game",
+      "imageSrc": "projects/project.png",
+      "description": "Created a snake game as a fun project to enhance problem-solving and improve programming skills.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "source": "https://www.github.com"
+    }
+  ]
+  

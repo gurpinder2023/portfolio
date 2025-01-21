@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Computer Science Student",
+      "organisation": "British Columbia Institute of Technology",
+      "startDate": "Jan, 2023",
+      "endDate": "Dec, 2024",
+      "experiences": ["Writing effective software", "Learning about algorithms"],
+      "imageSrc": "history/bcit.png"
+    },
+    {
+      "role": "College Internship",
+      "organisation": "The Walt Disney Company",
+      "startDate": "Jun, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Working in a team", "Learning about customer service"],
+      "imageSrc": "history/disney.png"
+    }
+    
+  ]

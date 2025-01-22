@@ -14,7 +14,7 @@
       "description": "Neighborhood engagement engine with optimized matching and stability.",
       "skills": ["Python", "React", "CSS", "JavaScript", "Google Cloud"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/webmainlandmedia/linli_match"
     },
     {
       "title": "AWDEA",
@@ -22,7 +22,7 @@
       "description": "Accessible platform with AWS, MongoDB, and Stripe integration.",
       "skills": ["React", "CSS", "Flowbite", "AWS", "MongoDB", "Stripe"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/gurpinder2023/awdea"
     },
 
     {
@@ -34,13 +34,30 @@
         "source": "https://github.com/gurpinder2023/Advice_generator_backend"
      },
 
+     {
+        "title": "Chess Game",
+        "imageSrc": "projects/chess-game.png",
+        "description": "Classic chess game showcasing game logic and UI skills.",
+        "skills": ["Java", "OOP", "JavaFX"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/gurpinder2023/Chess_SingleBoard"
+      },
+      {
+        "title": "Snake Game",
+        "imageSrc": "projects/snake-game.png",
+        "description": "Fun snake game improving problem-solving and programming skills.",
+        "skills": ["Python", "Pygame"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/gurpinder2023/snake-game"
+      }
+      ,
     {
       "title": "Escheduler",
       "imageSrc": "projects/escheduler.png",
       "description": "Platform for booking, recommendations, and patient history with AWS.",
       "skills": ["AWS Elastic Beanstalk", "SES", "Cognito", "DynamoDB"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/gurpinder2023/Escheduler"
     },
     {
       "title": "AISleep",
@@ -48,7 +65,7 @@
       "description": "Web app for sleep trend analysis using Python and Graphic API.",
       "skills": ["HTML", "CSS", "Bootstrap", "JS", "Node.js", "MongoDB"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/gurpinder2023/2800-202310-BBY14"
     },
     {
       "title": "Ready Bee",
@@ -56,25 +73,9 @@
       "description": "Emergency preparedness app for custom kits and document storage.",
       "skills": ["HTML", "Bootstrap", "Firebase", "Node.js", "jQuery"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/gurpinder2023/1800_202310_BBY24"
     },
-    {
-      "title": "Chess Game",
-      "imageSrc": "projects/chess-game.png",
-      "description": "Classic chess game showcasing game logic and UI skills.",
-      "skills": ["Java", "OOP", "JavaFX"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Snake Game",
-      "imageSrc": "projects/snake-game.png",
-      "description": "Fun snake game improving problem-solving and programming skills.",
-      "skills": ["Python", "Pygame"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-    ,
+   
 
     {
         "title": "Jenkins DevOps",
@@ -82,7 +83,7 @@
         "description": "Implemented CI/CD pipelines using Jenkins to automate build, test and deploy.",
         "skills": ["Jenkins", "Docker", "CI/CD"],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/gurpinder2023/jenkins_devops"
       }
   ]
   

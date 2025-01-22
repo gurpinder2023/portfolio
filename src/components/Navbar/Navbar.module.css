@@ -41,6 +41,15 @@
 }
 
 
+  
+  ul li a:hover {
+    color: white; /* Text color on hover */
+    background-color: #19376d; /* Background color on hover */
+    padding: 10px 20px; /* Optional: add some padding to make it more visually appealing */
+    border-radius: 50px; /* Rounded corners on hover */
+  }
+  
+
 @media screen and (max-width: 830px){
     .navbar{
         flex-direction: column;

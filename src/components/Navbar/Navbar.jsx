@@ -7,7 +7,7 @@ export const Navbar = () => {
 
     const [menuOpen, setMenuOpen] = useState(false);
     return <nav className = {Styles.navbar}>
-        <a className= {Styles.title} href="/">Gupinder</a>
+        <a className= {Styles.title} href="/">Gurpinder</a>
         <div className= {Styles.menu}>
             <img className ={Styles.menuBtn} src={
                 menuOpen 

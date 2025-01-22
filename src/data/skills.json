@@ -42,5 +42,16 @@
     {
         "title": "JavaScript",
         "imageSrc": "skills/Javascipt.png"
-    }
+    },
+
+    
+    {
+      "title": "Cloud Computing",
+      "imageSrc": "skills/cloudc.png"
+  },
+
+  {
+    "title": "DevOps",
+    "imageSrc": "skills/devops.png"
+}
   ]

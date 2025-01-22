@@ -1,19 +1,12 @@
 [
-    {
-      "title": "Multi-Assist",
-      "imageSrc": "projects/multi-assist.png",
-      "description": "API-centric app delivering health advice and translations with AI/ML models.",
-      "skills": ["HTML", "CSS", "Node.js", "Express.js", "Python"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
+   
     {
       "title": "Timetable",
       "imageSrc": "projects/timetable.png",
       "description": "Faculty-student timetable app with AWS services and automated CI/CD pipelines.",
       "skills": ["AWS", "API Gateway", "Step Functions", "AWS RDS", "CI/CD"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/gurpinder2023/FSScheduler-Devops"
     },
     {
       "title": "Linli-Match",
@@ -31,6 +24,16 @@
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
+
+    {
+        "title": "Multi-Assist",
+        "imageSrc": "projects/multi.png",
+        "description": "API-centric app delivering health advice and translations with AI/ML models.",
+        "skills": ["HTML", "CSS", "Node.js", "Express.js", "Python"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/gurpinder2023/Advice_generator_backend"
+     },
+
     {
       "title": "Escheduler",
       "imageSrc": "projects/escheduler.png",
@@ -71,5 +74,15 @@
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
+    ,
+
+    {
+        "title": "Jenkins DevOps",
+        "imageSrc": "projects/jenkins-devops.png",
+        "description": "Implemented CI/CD pipelines using Jenkins to automate build, test and deploy.",
+        "skills": ["Jenkins", "Docker", "CI/CD"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+      }
   ]
   
